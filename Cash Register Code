@@ -1,0 +1,28 @@
+public class Main {
+
+    public static void main(String[] args) {
+        Product jackfruit = new Product("Jackfruit", "Produce", 73, 3455, 324.99, true);
+        Product mango = new Product("Mango", "Produce",178, 3365, 8.99, false);
+    }
+}
+public class Product {
+    String name;
+    String dept;
+    int inv;
+    int PLU;
+    double price;
+    boolean salesTax;
+    public Product(String newName, String newDept, int newInv, int newPLU, double newPrice, boolean newTax){
+        name = newName;
+        dept = newDept;
+        inv = newInv;
+        PLU = newPLU;
+        price = newPrice;
+        salesTax = newTax;
+        if (newTax) {
+            System.out.printf("\nITEM/CODE/PRICE: %s / %d / $%.2f \nLOCATION: %s Dept.\nINVENTORY AMNT: %d Units\n(Item IS eligible for taxation.)\n * * * * * * * * * * * * * * *", newName, newPLU, newPrice, newDept, newInv);
+        } else {
+            System.out.printf("\nITEM/CODE/PRICE: %s / %d / $%.2f \nLOCATION: %s Dept.\nINVENTORY AMNT: %d Units\n(Item IS NOT eligible for taxation.)\n * * * * * * * * * * * * * * *", newName, newPLU, newPrice, newDept, newInv);
+        }
+    }
+}
