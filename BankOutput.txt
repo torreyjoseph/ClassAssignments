@@ -1,0 +1,11 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50696:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/joseph/IdeaProjects/NationalBank/out/production/NationalBank Main
+
+CLIENT NAME: Lukaš M. Novak
+ACCNT. NUM.: 120291
+ACCNT. BAL.: $498932.94
+
+CLIENT NAME: Kathy B. Dietrich
+ACCNT. NUM.: 105891
+ACCNT. BAL.: $530300.30
+
+Process finished with exit code 0
