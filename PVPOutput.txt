@@ -1,0 +1,64 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50537:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/joseph/IdeaProjects/Players Vnknown Battlegrouds/out/production/Players Vnknown Battlegrouds" Main
+Lo and behold, good sirah! Here be new characters!
+┏━━━━━━━━━━━━━━━━━━━━┓ ┏━━━━━━━━┯━━━━━━━┓
+┃       Никита Хрущев┃ ┃HEALTH: │ 64/ 64┃
+┣━━━━━━━━━━━━━━━━━┯━━┫ ┣━━━━━━━━┿━━━━━━━┫
+┃Strength         │16┃ ┃MANA:   │  0/  0┃
+┣━━━━━━━━━━━━━━━━━┿━━┫ ┗━━━━━━━━┷━━━━━━━┛
+┃Agility          │12┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Intelligence     │11┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Constitution     │16┃
+┗━━━━━━━━━━━━━━━━━┷━━┛
+Lo and behold, good sirah! Here be new characters!
+┏━━━━━━━━━━━━━━━━━━━━┓ ┏━━━━━━━━┯━━━━━━━┓
+┃              Commie┃ ┃HEALTH: │  8/  8┃
+┣━━━━━━━━━━━━━━━━━┯━━┫ ┣━━━━━━━━┿━━━━━━━┫
+┃Strength         │ 8┃ ┃MANA:   │ 44/ 44┃
+┣━━━━━━━━━━━━━━━━━┿━━┫ ┗━━━━━━━━┷━━━━━━━┛
+┃Agility          │ 9┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Intelligence     │16┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Charisma         │14┃
+┗━━━━━━━━━━━━━━━━━┷━━┛
+Lo and behold, good sirah! Here be new characters!
+┏━━━━━━━━━━━━━━━━━━━━┓ ┏━━━━━━━━┯━━━━━━━┓
+┃          Sicko Mode┃ ┃HEALTH: │  9/  9┃
+┣━━━━━━━━━━━━━━━━━┯━━┫ ┣━━━━━━━━┿━━━━━━━┫
+┃Strength         │ 9┃ ┃MANA:   │ 43/ 43┃
+┣━━━━━━━━━━━━━━━━━┿━━┫ ┗━━━━━━━━┷━━━━━━━┛
+┃Agility          │12┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Intelligence     │21┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Wisdom           │11┃
+┗━━━━━━━━━━━━━━━━━┷━━┛
+Lo and behold, good sirah! Here be new characters!
+┏━━━━━━━━━━━━━━━━━━━━┓ ┏━━━━━━━━┯━━━━━━━┓
+┃     Ich Bin Flammen┃ ┃HEALTH: │ 48/ 48┃
+┣━━━━━━━━━━━━━━━━━┯━━┫ ┣━━━━━━━━┿━━━━━━━┫
+┃Strength         │13┃ ┃MANA:   │ 90/ 90┃
+┣━━━━━━━━━━━━━━━━━┿━━┫ ┗━━━━━━━━┷━━━━━━━┛
+┃Agility          │11┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Intelligence     │19┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Charisma         │11┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Wisdom           │11┃
+┗━━━━━━━━━━━━━━━━━┷━━┛
+There be 4 characters.
+Viola, a fighter:
+┏━━━━━━━━━━━━━━━━━━━━┓ ┏━━━━━━━━┯━━━━━━━┓
+┃       Никита Хрущев┃ ┃HEALTH: │ 64/ 64┃
+┣━━━━━━━━━━━━━━━━━┯━━┫ ┣━━━━━━━━┿━━━━━━━┫
+┃Strength         │16┃ ┃MANA:   │  0/  0┃
+┣━━━━━━━━━━━━━━━━━┿━━┫ ┗━━━━━━━━┷━━━━━━━┛
+┃Agility          │12┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+┃Intelligence     │11┃
+┣━━━━━━━━━━━━━━━━━┿━━┫
+
+Process finished with exit code 0
