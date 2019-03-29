@@ -1,0 +1,31 @@
+//Main.java:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        Client one = new Client("Lukaš", "Miloslav", "Novak", 120291, 498932.9398);
+        Client two = new Client("Kathy", "Blair", "Dietrich", 105891, 530300.3049);
+    }
+}
+
+//Client.Java:
+
+public class Client {
+    public String firstName;
+    public String midName;
+    public String lastName;
+    public int accntNum;
+    private double bal;
+
+
+    public Client(String cusFirstName, String cusMidName, String cusLastName, int cusAccntNum, double cusBal){
+        firstName = cusFirstName;
+        midName = cusMidName;
+        char midInitial = midName.charAt(0);
+        lastName = cusLastName;
+        accntNum = cusAccntNum;
+        bal = cusBal;
+        System.out.printf("\nCLIENT NAME: %s %s. %s\nACCNT. NUM.: %d\nACCNT. BAL.: $%.2f\n", cusFirstName, midInitial, cusLastName, cusAccntNum, cusBal);
+    }
+}
